@@ -7,8 +7,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portafolio | Tu Nombre",
-  description: "Portafolio profesional creado con Next.js, Tailwind CSS y más.",
+  title: "Portafolio | Nicolas Kim",
+  description: "Portafolio profesional de Nicolas Kim, creado con Next.js, Tailwind CSS y más.",
 };
 
 export default function RootLayout({ children }) {

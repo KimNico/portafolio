@@ -1,4 +1,4 @@
-# Portafolio de Tu Nombre
+# Portafolio de Nicolas Kim
 
 Este es mi portafolio profesional desarrollado con Next.js 14+, Tailwind CSS, Framer Motion y más. Aquí muestro mis proyectos, habilidades y experiencia como desarrollador Full Stack.
 
@@ -24,7 +24,7 @@ Este es mi portafolio profesional desarrollado con Next.js 14+, Tailwind CSS, Fr
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/mi-portafolio.git
+   git clone https://github.com/KimNico/mi-portafolio.git
    cd mi-portafolio
    ```
 2. Instala las dependencias:
@@ -47,4 +47,5 @@ Este es mi portafolio profesional desarrollado con Next.js 14+, Tailwind CSS, Fr
 
 ---
 
-Hecho con ❤️ por Tu Nombre
+Hecho con ❤️ por [Nicolas Kim](https://www.linkedin.com/in/nicolas-kim05/)  
+[GitHub](https://github.com/KimNico)

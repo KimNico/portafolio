@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-30 w-full bg-white/70 dark:bg-gray-900/70 backdrop-blur border-b border-gray-200 dark:border-gray-800">
       <nav className="max-w-5xl mx-auto flex items-center justify-between h-16 px-4 sm:px-6 lg:px-8">
         {/* Logo o Nombre */}
-        <div className="font-bold text-lg tracking-tight select-none">Tu Nombre</div>
+        <div className="font-bold text-lg tracking-tight select-none">Nicolas Kim</div>
         {/* Enlaces de navegación */}
         <ul className="hidden md:flex gap-6">
           {NAV_LINKS.map((link) => (
@@ -36,7 +36,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <ThemeToggle />
           <a
-            href="https://github.com/tuusuario"
+            href="https://github.com/KimNico"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -45,7 +45,7 @@ export default function Navbar() {
             <Github size={20} />
           </a>
           <a
-            href="https://linkedin.com/in/tuusuario"
+            href="https://www.linkedin.com/in/nicolas-kim05/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
