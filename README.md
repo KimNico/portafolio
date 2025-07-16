@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portafolio de Tu Nombre
 
-## Getting Started
+Este es mi portafolio profesional desarrollado con Next.js 14+, Tailwind CSS, Framer Motion y más. Aquí muestro mis proyectos, habilidades y experiencia como desarrollador Full Stack.
 
-First, run the development server:
+## 🚀 Tecnologías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Next.js 14+](https://nextjs.org/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [next-themes](https://github.com/pacocoursey/next-themes)
+- [lucide-react](https://lucide.dev/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Diseño responsive y mobile-first
+- Animaciones suaves al hacer scroll
+- Modo claro/oscuro con cambio instantáneo
+- Navegación con scroll suave entre secciones
+- Sección de proyectos con enlaces a demo y código
+- Sección de habilidades categorizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Instalación local
 
-## Learn More
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/mi-portafolio.git
+   cd mi-portafolio
+   ```
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+4. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-To learn more about Next.js, take a look at the following resources:
+## ### 🚀 Despliegue en Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Haz login o crea una cuenta en [Vercel](https://vercel.com/).
+2. Haz click en "New Project" y selecciona tu repositorio.
+3. Vercel detectará automáticamente la configuración de Next.js y Tailwind CSS.
+4. Haz click en "Deploy" y espera unos segundos.
+5. ¡Listo! Tu portafolio estará disponible en una URL pública.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Hecho con ❤️ por Tu Nombre
