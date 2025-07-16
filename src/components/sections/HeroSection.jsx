@@ -13,7 +13,7 @@ export default function HeroSection() {
       className="py-20 flex flex-col items-center text-center"
     >
       <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-4">
-        Hola, soy <span className="text-blue-600 dark:text-blue-400">Tu Nombre</span>
+        Hola, soy <span className="text-blue-600 dark:text-blue-400">Nicolas Kim</span>
       </h1>
       <h2 className="text-xl sm:text-2xl font-medium mb-4 text-gray-700 dark:text-gray-300">
         Desarrollador Full Stack
